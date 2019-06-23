@@ -1,0 +1,27 @@
+body {
+    color: maroon;
+    background-image: url("../../pics/email-pattern.png");
+    font-family: cursive;
+}
+
+.aboutme {
+    
+}
+
+.card-text {
+    text-align: center;
+    text-decoration: none;
+}
+
+.projects  {
+    float: left;
+    padding: 10px;
+    margin: 20px 20px 20px 20px;
+}
+
+footer {
+    background-color: gray;
+    height: 120px;
+    width: 100%;
+    clear: both;
+}
