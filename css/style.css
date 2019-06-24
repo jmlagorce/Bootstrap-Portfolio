@@ -4,8 +4,11 @@ body {
     font-family: fantasy;
 }
 
-.aboutme {
-    
+
+#me {
+    border: solid burlywood 15px;
+}
+
 }
 
 .card-text {
@@ -42,5 +45,13 @@ a {
 
 .cb {
     background-color: burlywood;
+    text-align: center;
+}
+ 
+h2 {
+    font-weight: bold;
 }
 
+.prjct {
+    border: solid 10px burlywood;
+}
