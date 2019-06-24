@@ -2,6 +2,7 @@ body {
     color: burlywood;
     background-image: url("../pics/prism.png");
     font-family: fantasy;
+    font-size: large;
 }
 
 
@@ -23,7 +24,7 @@ body {
 }
 
 footer {
-    background-color: gray;
+    background-color: rgb(52,58,64);
     height: 120px;
     width: 100%;
     clear: both;
