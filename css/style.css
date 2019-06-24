@@ -56,3 +56,14 @@ h2 {
 .prjct {
     border: solid 10px burlywood;
 }
+
+div.prjct:hover {
+    background-color: rgb(52,58,64);
+    border: solid 10px rgb(52,58,64);
+
+}
+
+button:hover {
+    background-color: rgb(52,58,64);
+    color: burlywood;
+}
