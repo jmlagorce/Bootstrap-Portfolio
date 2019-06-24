@@ -1,7 +1,7 @@
 body {
-    color: maroon;
-    background-image: url("../pics/email-pattern.png");
-    font-family: cursive;
+    color: burlywood;
+    background-image: url("../pics/prism.png");
+    font-family: fantasy;
 }
 
 .aboutme {
@@ -14,9 +14,9 @@ body {
 }
 
 .projects  {
-    float: left;
-    padding: 10px;
-    margin: 20px 20px 20px 20px;
+    padding: 20px;
+    margin: 30px 30px 30px 30px;
+    font-size: large;
 }
 
 footer {
@@ -25,3 +25,22 @@ footer {
     width: 100%;
     clear: both;
 }
+
+.message {
+    height: 100px;
+}
+
+.body-bck {
+    background-color: white;
+}
+
+a {
+    color: white;
+    text-align: center; 
+    
+}
+
+.cb {
+    background-color: burlywood;
+}
+
