@@ -8,9 +8,10 @@ body {
 
 #me {
     border: solid burlywood 15px;
+    margin: 15px 15px 15px 15px; 
 }
 
-}
+
 
 .card-text {
     text-align: center;
